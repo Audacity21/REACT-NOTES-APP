@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/REACT-NOTES-APP/static/css/main.bc38e123.chunk.css",
+    "main.js": "/REACT-NOTES-APP/static/js/main.c1538e4c.chunk.js",
+    "main.js.map": "/REACT-NOTES-APP/static/js/main.c1538e4c.chunk.js.map",
+    "runtime-main.js": "/REACT-NOTES-APP/static/js/runtime-main.fb0787b5.js",
+    "runtime-main.js.map": "/REACT-NOTES-APP/static/js/runtime-main.fb0787b5.js.map",
+    "static/js/2.023074b3.chunk.js": "/REACT-NOTES-APP/static/js/2.023074b3.chunk.js",
+    "static/js/2.023074b3.chunk.js.map": "/REACT-NOTES-APP/static/js/2.023074b3.chunk.js.map",
+    "index.html": "/REACT-NOTES-APP/index.html",
+    "static/css/main.bc38e123.chunk.css.map": "/REACT-NOTES-APP/static/css/main.bc38e123.chunk.css.map",
+    "static/js/2.023074b3.chunk.js.LICENSE.txt": "/REACT-NOTES-APP/static/js/2.023074b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb0787b5.js",
+    "static/js/2.023074b3.chunk.js",
+    "static/css/main.bc38e123.chunk.css",
+    "static/js/main.c1538e4c.chunk.js"
+  ]
+}
