@@ -6,7 +6,7 @@ To practice making industry level applications in future, I followed his tutoria
 ## SCREENSHOTS
 ![Light mode ](https://github.com/Audacity21/REACT-NOTES-APP/blob/main/Screenshot%20%281%29.png)
 ![Dark mode](https://github.com/Audacity21/REACT-NOTES-APP/blob/main/Screenshot%20%282%29.png)
-## CONTRIBURE INFO
+## CONTRIBUTE INFO
 I want to try some things on this project on my own so I won't be accepting pull requests on this project right away. Might open the app to PR's once it's better.
 ## CONNECT WITH ME
 <a href = 'https://www.linkedin.com/in/ankit-seth-784649219'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
